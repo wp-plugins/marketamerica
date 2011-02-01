@@ -46,7 +46,7 @@ paid from your maWidgets.
 = How can I report a bug? request help? request a feature? =
 
 If you find a bug in the Market America maWidgets plugin, please let us know by emailing details 
-to [mailto:socialmedia@marketmmerica.com](socialmedia@marketmmerica.com). 
+to [socialmedia@marketmmerica.com](mailto:socialmedia@marketmmerica.com). 
 
 
 == Screenshots ==
