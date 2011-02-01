@@ -14,13 +14,13 @@ Quickly and easily monetize your website through the integration of Market Ameri
 
 maWidgets is a great way to share products and services on third-party websites and blogs. 
 When you place a widget on a third-party website or blog, you will be able to display product details and information, share reviews, 
-offer purchasing capabilities, and allow others the ability to search your Web Portal’s 35 million+ products.
+offer purchasing capabilities, and allow others the ability to search your Web Portal's 35 million+ products.
 
 = Earn Cashback! =
 Anyone you refer can earn up to 35 percent Cashback for shopping on marketamerica.com wherever you see the ma Cashback logo. 
-Plus, you get a ½ percent on referral purchases forever. Find exactly what you need from millions of products and services using our search technology. 
-Shop from home and save time, gas, and the hassle of fighting the crowds. The ma Cashback program rewards you for doing what you already love to do – shop! 
-If you post maWidgets on your self-hosted WordPress website, you expose the ma Cashback program and can earn ½ percent on others' purchases by doing so!
+Plus, you get a 1/2 percent (0.5 percent) on referral purchases forever. Find exactly what you need from millions of products and services using our search technology. 
+Shop from home and save time, gas, and the hassle of fighting the crowds. The ma Cashback program rewards you for doing what you already love to do - shop! 
+If you post maWidgets on your self-hosted WordPress website, you expose the ma Cashback program and can earn 1/2 percent (0.5 percent) on others' purchases by doing so!
 
 
 == Installation ==
@@ -32,7 +32,7 @@ If you post maWidgets on your self-hosted WordPress website, you expose the ma C
 5. Enter your **PCID** or **Email** which you use to login to the Market America portal
 6. Enter your **Password**
 7. Press the *Update Settings* button to update your settings. You may also want to to validate your credentials before updating
-8. Go to Appearances > Widgets, and drag maWidgets to your sidebar – you can also now add maWidgets to a post or page!
+8. Go to Appearances > Widgets, and drag maWidgets to your sidebar - you can also now add maWidgets to a post or page!
 
 
 == Frequently Asked Questions ==
@@ -46,7 +46,7 @@ paid from your maWidgets.
 = How can I report a bug? request help? request a feature? =
 
 If you find a bug in the Market America maWidgets plugin, please let us know by emailing details 
-to [mailto:socialmedia@marketmmerica.com](mailto:socialmedia@marketmmerica.com). 
+to [mailto:socialmedia@marketmmerica.com](socialmedia@marketmmerica.com). 
 
 
 == Screenshots ==
