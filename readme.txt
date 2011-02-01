@@ -25,7 +25,7 @@ If you post maWidgets on your self-hosted WordPress website, you expose the ma C
 
 == Installation ==
 
-1. Unzip the downloaded file & upload the `wordpress-marketamerica` folder and all its contents to your `/wp-content/plugins/` directory
+1. Unzip the downloaded file & upload the `marketamerica` folder and all its contents to your `/wp-content/plugins/` directory
 2. Log into your WordPress (self-hosted site) domain
 3. From the Admin panel, activate the plugin through the *Plugins* menu in WordPress 
 4. Access the Plugin settings by clicking the *WP - Market America* menu option
