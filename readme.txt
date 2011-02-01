@@ -46,7 +46,7 @@ paid from your maWidgets.
 = How can I report a bug? request help? request a feature? =
 
 If you find a bug in the Market America maWidgets plugin, please let us know by emailing details 
-to [socialmedia@marketmmerica.com](mailto:socialmedia@marketmmerica.com). 
+to [socialmedia@marketamerica.com](mailto:socialmedia@marketamerica.com). 
 
 
 == Screenshots ==
@@ -59,7 +59,7 @@ to [socialmedia@marketmmerica.com](mailto:socialmedia@marketmmerica.com).
 
 4. Insert Market America Search Widget on sidebar & update settings
 
-5. Market America maWodgets Settings Panel
+5. Market America maWidgets Settings Panel
 
 6. Page/Post Quick Widgets Component
 

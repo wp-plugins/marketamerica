@@ -111,10 +111,10 @@ class Widget_MA_Product extends Widget_MA_Base {
 			$js = "onchange=\"MA_ChangeCategory( '" . $this->get_field_id('catID') . "', '" . $this->get_field_id('subCatID') . "' )\"";
 			$subCatjs = "onchange=\"MA_ChangeSubCategory( '" . $this->get_field_id('subCatID') . "', '" . $this->get_field_id('prodID') . "' )\"";
             echo $this->textinputWithLabel( __("Widget Title:",'wpaa'), 'widgetTitle', $widgetTitle );
-			echo $this->selectWithLabel( __('Widget Size','wpaa'), 'combinedSize', MAWidget_Design::getAvailableSizes(), $combinedSize );
-			echo $this->selectWithLabel( __('Product Category','wpaa'), 'catID', (array)null, $catID, $js);
-			echo $this->selectWithLabel( __('Product Sub-Category','wpaa'), 'subCatID', (array)null, $subCatID, $subCatjs);
-			echo $this->selectWithLabel( __('Product','wpaa'), 'prodID', (array)null, $prodID );
+			echo $this->selectWithLabel( __('Widget Size:','wpaa'), 'combinedSize', MAWidget_Design::getAvailableSizes(), $combinedSize );
+			echo $this->selectWithLabel( __('Product Category:','wpaa'), 'catID', (array)null, $catID, $js);
+			echo $this->selectWithLabel( __('Product Sub-Category:','wpaa'), 'subCatID', (array)null, $subCatID, $subCatjs);
+			echo $this->selectWithLabel( __('Product:','wpaa'), 'prodID', (array)null, $prodID );
         $jsParams = "'" . $this->get_field_id('combinedSize') .
                 "', '" . $this->get_field_id('prodID') . "'";
         echo '<input type="button" style="float:right" onclick="previewMAProduct( \'' . $wpaa->getPluginPath( '/servlet/preview.php') . '\', '  . $jsParams . ');" value="' . __("Preview Widget") . '" />';

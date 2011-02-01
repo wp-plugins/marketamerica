@@ -394,7 +394,7 @@ class WPMA extends MA_Plugin {
     public function configPage() {
         ?>
 <div class="wrap">
-    <h2>Market America maWidgts: <?php _e('Settings', 'wpaa'); ?></h2>
+    <h2>Market America maWidgets: <?php _e('Settings', 'wpaa'); ?></h2>
     <div class="postbox-container" style="width:500px;" >
         <div class="metabox-holder">
             <div class="meta-box-sortables">
